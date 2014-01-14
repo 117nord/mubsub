@@ -1,6 +1,6 @@
 {
     "name":         "mubsub",
-    "version":      "1.0.4purple",
+    "version":      "1.0.5purple",
     "description":  "Pub/sub for Node.js and MongoDB",
     "homepage":     "https://github.com/lvlpurple/mubsub",
     "author":       "Scott Nelson <scottbnel@gmail.com>",
